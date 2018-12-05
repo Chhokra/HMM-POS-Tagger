@@ -1,0 +1,28 @@
+i	PRP
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+at	IN
+a	DT
+really	RB
+cheap	JJ
+place	NN
+tomorrow	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+list	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+lunch	NN
+.	.
+
